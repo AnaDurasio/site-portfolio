@@ -8,17 +8,14 @@ HTML
 
 CSS
 
-JavaScript
-
-[Framework/Biblioteca usada, se houver]
 
 Funcionalidades
 
 Apresentação pessoal
 
-Seção de projetos com links
+Seção de projetos 
 
-Formulário de contato
+Telefone de contato
 
 Design responsivo
 
@@ -26,11 +23,11 @@ Como Rodar o Projeto
 
 Clone este repositório:
 
-git clone https://github.com/seu-usuario/portfolio.git
+git clone https://github.com/AnaDurasio/site-portfolio.git
 
 Acesse a pasta do projeto:
 
-cd portfolio
+cd site-portfolio
 
 Abra o arquivo index.html no navegador ou utilize um servidor local.
 
