@@ -4,11 +4,8 @@ Bem-vindo ao repositório do meu site portfólio! Este projeto apresenta meus tr
 
 Tecnologias Utilizadas
 
-HTML
-
-CSS
-
-
+ HTML, CSS...
+ 
 Funcionalidades
 
 Apresentação pessoal
@@ -33,16 +30,6 @@ Abra o arquivo index.html no navegador ou utilize um servidor local.
 
 Deploy
 
-O site está hospedado em: [Insira o link do seu site]
-
-Contato
-
-Me encontre em:
-
-[Seu LinkedIn]
-
-[Seu Twitter/GitHub]
-
-[Seu Email]
+O site está hospedado em: [https://anadurasio.github.io/site-portfolio/]
 
 Sinta-se à vontade para contribuir ou sugerir melhorias!
